@@ -87,12 +87,12 @@ vayalur.html
 ```
 
 ## OUTPUT
-![alt text](mylu/mapapp/static/map2.png)
-![alt text](mylu/mapapp/static/1.png)
-![alt text](mylu/mapapp/static/2.png)
-![alt text](mylu/mapapp/static/3.png)
-![alt text](mylu/mapapp/static/4.png)
-![alt text](mylu/mapapp/static/5.png)
+![alt text](map2.png)
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
