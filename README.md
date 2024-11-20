@@ -87,7 +87,7 @@ vayalur.html
 ```
 
 ## OUTPUT
-![alt text](mylu/mapapp/static/Map.png)
+![alt text](mylu/mapapp/static/map2.png)
 ![alt text](mylu/mapapp/static/1.png)
 ![alt text](mylu/mapapp/static/2.png)
 ![alt text](mylu/mapapp/static/3.png)
